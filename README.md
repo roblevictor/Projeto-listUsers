@@ -13,20 +13,25 @@ Este é um projeto de cadastro e listagem de usuários que foi desenvolvido util
 ### Instruções sobre como instalar e executar a aplicação
 
 baixe como um zip: clique no botão em CODE e Download zip. Basta 
+![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/d45b159e-233a-41ce-8c33-e23395555e12)
+
 
 ### para iniciar o servidor é necessário utilizar o comando abaixo na pasta do "frontend" e da "api"
 
     npm run start
+    
+ 
+## 🧰 Requisitos de sistema para executar a aplicação
+Antes de começar, você vai precisar ter instalado:
+- NodeJS >= 14.21.3
+- MySQL Workbench >= 8.0.32
 
-### Iniciar testes com o Cypress
-
-    Após iniciar os servidores do front-end e da api, insira o comando do cypress:
-
-    npm run cypress
 
 ### Informações sobre como contribuir para o projeto;
 
 Existem duas maneiras de contribuir para o projeto: apresentando uma questão (issue) sobre um problema encontrado durante o uso, ou enviando uma solicitação de modificação (pull request) com a funcionalidade desejada ou correção de um bug. É fundamental que tanto as questões quanto as solicitações de modificação sejam detalhadas ao máximo, para que nossa equipe possa avaliar as situações de forma eficiente. É recomendável mencionar as partes específicas onde os erros ocorrem. No processo de contribuição, é necessário fazer um fork do repositório principal e, dentro do seu repositório pessoal copiado, criar uma branch que contenha apenas o código relevante para a alteração proposta. A nomenclatura da branch deve ser clara e objetiva. 
+![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/dde44c5f-86f1-4ad7-be39-0263baa0f7b5)![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/f0a9c3b6-38df-4e0d-ae87-705d97da8677)
+
 
 
 ### Descrição da aplicação de práticas de código limpo;
@@ -51,14 +56,22 @@ Existem duas maneiras de contribuir para o projeto: apresentando uma questão (i
 
 10-Revisões de código: Promova revisões de código entre os membros da equipe para garantir que as diretrizes de código limpo sejam seguidas e identificar possíveis melhorias.
 
-## 🧰 Requisitos de sistema para executar a aplicação
-Antes de começar, você vai precisar ter instalado:
-- NodeJS >= 14.21.3
-- MySQL Workbench >= 8.0.32
+
+### Iniciar testes com o Cypress
+
+    Após iniciar os servidores do front-end e da api, insira o comando do cypress:
+
+    npm run cypress
+    ![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/5403e8fe-9ac9-4099-869c-2e8b42e5b18b)
+    
+    ![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/392d42a0-ec38-4454-b029-0858f6a5ddef)
+    Caso ache que o Cypress testa muito rápido, é possível ver com calma passando o mouse por cima e visualizando passo a passo de como tudo foi feito.
+    
+
 
 ## 🛠 Instalação das dependências(não foi possivel enviar os arquivos "node_modeles", baixar dependências com o comando
 ```sh
 npm i
 ```
-![image](https://drive.google.com/file/d/1nqn-I50TEZ4oaIierFGB3K9BzPjFEjhD/view?usp=drive_link)
+![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/36a8a242-e3cf-4054-bb1e-5b8a5621ea87)
 
