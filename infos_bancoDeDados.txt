@@ -1,0 +1,31 @@
+
+const connection=mysql.createConnection({
+  host: "localhost",
+  user: "root",
+  password: "136102Hugo",
+  database: "crud"
+});
+```
+
+### Criação da tabela do banco de dados
+
+```sql
+   CREATE DATABASE crud;
+
+    use crud;
+
+    CREATE TABLE `usuarios` (
+    `id` int(11) NOT NULL,
+    `nome` varchar(255) NOT NULL,
+    `email` varchar(255) NOT NULL,
+    `fone` varchar(255) NOT NULL,
+    `data_nascimento` varchar(255) NOT NULL
+    ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+    ALTER TABLE `users`
+    ADD PRIMARY KEY (`id`);
+
+    ALTER TABLE `users`
+    MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
+```
