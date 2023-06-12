@@ -22,6 +22,11 @@ baixe como um zip: clique no botão em CODE e Download zip.
 
 ![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/d45b159e-233a-41ce-8c33-e23395555e12)
 
+## 🛠 Instalação das dependências(não foi possivel enviar os arquivos "node_modules", baixar dependências no projeto com o comando
+```sh
+npm i
+```
+
 
 ### para iniciar o servidor é necessário utilizar o comando abaixo na pasta do "frontend" e da "api"
 
@@ -78,10 +83,5 @@ Existem duas maneiras de contribuir para o projeto: apresentando uma questão (i
     Caso ache que o Cypress testa muito rápido, é possível ver com calma passando o mouse por cima e visualizando passo a passo de como tudo foi feito.
     
 
-
-## 🛠 Instalação das dependências(não foi possivel enviar os arquivos "node_modules", baixar dependências no projeto com o comando
-```sh
-npm i
-```
 ![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/dcc2de28-622d-418a-8d5b-46a5186e2095)
 
