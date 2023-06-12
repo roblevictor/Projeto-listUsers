@@ -16,6 +16,11 @@ Este é um projeto de cadastro e listagem de usuários que foi desenvolvido util
   <img align="center" alt="Victor-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />,
   <img align="center" alt="Victor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   
+## 🧰 Requisitos de sistema para executar a aplicação
+Antes de começar, você vai precisar ter instalado:
+- NodeJS >= 14.21.3
+- MySQL Workbench >= 8.0.32
+
 ### Instruções sobre como instalar e executar a aplicação
 
 baixe como um zip: clique no botão em CODE e Download zip.
@@ -32,11 +37,6 @@ npm i
 
     npm run start
     
- 
-## 🧰 Requisitos de sistema para executar a aplicação
-Antes de começar, você vai precisar ter instalado:
-- NodeJS >= 14.21.3
-- MySQL Workbench >= 8.0.32
 
 
 ### Informações sobre como contribuir para o projeto;
