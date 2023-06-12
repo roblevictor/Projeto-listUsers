@@ -8,11 +8,16 @@ Esse projeto para cadastramento de usuarios utilizado para entender e aperfeiço
 O ambiente de desenvolvimento utilizado foi o Visual Studio Code como editor de código que oferece controle de versão,debug e para codificar e rodar a aplicação e o GitHub para enviar atualizações na nova branch na versão de produção sem afetar o código.  
 
 ### Especificação da linguagem de programação, frameworks e banco de dados utilizados;
-Este é um projeto de cadastro e listagem de usuários que foi desenvolvido utilizando NodeJS, ReactJS,  ExpressJS , MySQL, e Cypress para fazer testes automatizados.
+Este é um projeto de cadastro e listagem de usuários que foi desenvolvido utilizando   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Victor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Victor-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="Victor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />e Cypress para fazer testes automatizados.
 
 ### Instruções sobre como instalar e executar a aplicação
 
-baixe como um zip: clique no botão em CODE e Download zip. Basta 
+baixe como um zip: clique no botão em CODE e Download zip.
+
 ![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/d45b159e-233a-41ce-8c33-e23395555e12)
 
 
@@ -30,7 +35,10 @@ Antes de começar, você vai precisar ter instalado:
 ### Informações sobre como contribuir para o projeto;
 
 Existem duas maneiras de contribuir para o projeto: apresentando uma questão (issue) sobre um problema encontrado durante o uso, ou enviando uma solicitação de modificação (pull request) com a funcionalidade desejada ou correção de um bug. É fundamental que tanto as questões quanto as solicitações de modificação sejam detalhadas ao máximo, para que nossa equipe possa avaliar as situações de forma eficiente. É recomendável mencionar as partes específicas onde os erros ocorrem. No processo de contribuição, é necessário fazer um fork do repositório principal e, dentro do seu repositório pessoal copiado, criar uma branch que contenha apenas o código relevante para a alteração proposta. A nomenclatura da branch deve ser clara e objetiva. 
-![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/dde44c5f-86f1-4ad7-be39-0263baa0f7b5)![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/f0a9c3b6-38df-4e0d-ae87-705d97da8677)
+
+![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/dde44c5f-86f1-4ad7-be39-0263baa0f7b5)
+
+![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/f0a9c3b6-38df-4e0d-ae87-705d97da8677)
 
 
 
