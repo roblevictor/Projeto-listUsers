@@ -23,9 +23,9 @@ const connection=mysql.createConnection({
     ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 
-    ALTER TABLE `users`
+    ALTER TABLE `usuarios`
     ADD PRIMARY KEY (`id`);
 
-    ALTER TABLE `users`
+    ALTER TABLE `usuarios`
     MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 ```
