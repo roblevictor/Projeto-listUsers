@@ -27,6 +27,8 @@ baixe como um zip: clique no botão em CODE e Download zip.
 
 ![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/d45b159e-233a-41ce-8c33-e23395555e12)
 
+Para criação do Banco de Dados, utilize o arquivo Info_BancoDeDados.
+
 ## 🛠 Instalação das dependências(não foi possivel enviar os arquivos "node_modules", baixar dependências no projeto com o comando
 ```sh
 npm i
