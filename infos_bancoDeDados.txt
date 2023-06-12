@@ -2,7 +2,7 @@
 const connection=mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "136102Hugo",
+  password: "",
   database: "crud"
 });
 ```
