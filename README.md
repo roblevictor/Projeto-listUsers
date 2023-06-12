@@ -83,5 +83,5 @@ Existem duas maneiras de contribuir para o projeto: apresentando uma questão (i
 ```sh
 npm i
 ```
-![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/36a8a242-e3cf-4054-bb1e-5b8a5621ea87)
+![image](https://github.com/roblevictor/Projeto-listUsers/assets/99829800/dcc2de28-622d-418a-8d5b-46a5186e2095)
 
