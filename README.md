@@ -8,11 +8,11 @@ Esse projeto para cadastramento de usuarios utilizado para entender e aperfeiço
 O ambiente de desenvolvimento utilizado foi o Visual Studio Code como editor de código que oferece controle de versão,debug e para codificar e rodar a aplicação e o GitHub para enviar atualizações na nova branch na versão de produção sem afetar o código.  
 
 ### Especificação da linguagem de programação, frameworks e banco de dados utilizados;
-Este é um projeto de cadastro e listagem de usuários que foi desenvolvido utilizando   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Victor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Victor-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img align="center" alt="Victor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />e Cypress para fazer testes automatizados.
+Este é um projeto de cadastro e listagem de usuários que foi desenvolvido utilizando   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">,
+  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">,
+  <img align="center" alt="Victor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />,
+  <img align="center" alt="Victor-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />,
+  <img align="center" alt="Victor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> e Cypress para fazer testes automatizados.
 
 ### Instruções sobre como instalar e executar a aplicação
 
