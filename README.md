@@ -79,7 +79,7 @@ Existem duas maneiras de contribuir para o projeto: apresentando uma questão (i
     
 
 
-## 🛠 Instalação das dependências(não foi possivel enviar os arquivos "node_modeles", baixar dependências com o comando
+## 🛠 Instalação das dependências(não foi possivel enviar os arquivos "node_modules", baixar dependências no projeto com o comando
 ```sh
 npm i
 ```
